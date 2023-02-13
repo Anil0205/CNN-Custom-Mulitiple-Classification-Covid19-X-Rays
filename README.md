@@ -17,6 +17,7 @@ COVID-19 when left undetected can lead to a hazardous infection spread, leading 
 
 
 
+![App Screenshot](https://editor.analyticsvidhya.com/uploads/90650dnn2.jpeg)
 
 
 
@@ -31,7 +32,6 @@ COVID-19 when left undetected can lead to a hazardous infection spread, leading 
 
 
 
-![App Screenshot](https://www.researchgate.net/publication/355739633/figure/fig1/AS:1084252749860974@1635517408894/Architecture-of-the-proposed-CNN-MLP-model.png)
 ## Installation
 
 
